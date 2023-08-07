@@ -1,0 +1,32 @@
+.idea\
+.gradle\
+lib\
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/build/
+.idea/*
+.build/*
+/lib/
+/Build/*
+.gradlelib\
+/gradle/
+/repository/lib/
+
+# Project exclude paths
+/.gradle/
+/controller/build/
+/controller/build/classes/java/main/
+/model/build/
+/model/build/classes/java/main/
+/repository/build/
+/repository/build/classes/java/main/
+/repository/build/classes/java/test/
+/service/build/
+/service/build/classes/java/main/
+/service/build/classes/java/test/
